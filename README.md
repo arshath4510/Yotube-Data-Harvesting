@@ -39,3 +39,6 @@ This application uses several Python libraries that you need to install before r
 
 ```bash
 pip install -r requirements.txt
+
+### Linkedin
+https://www.linkedin.com/in/arshathparvesh10/
