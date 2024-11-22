@@ -2,6 +2,10 @@
 
 This project is a **Streamlit-based** application that integrates the **YouTube API**, **MongoDB**, and **PostgreSQL** to enable efficient data harvesting, storage, and analysis of YouTube channel data. The tool offers a user-friendly, interactive interface for collecting, storing, and analyzing YouTube channel-related data, such as channels, videos, playlists, and comments. It provides a seamless experience for data migration between MongoDB and PostgreSQL, alongside powerful data query capabilities.
 
+
+### Linkedin
+https://www.linkedin.com/in/arshathparvesh10/
+
 ## Features
 
 ### YouTube API Integration
@@ -32,6 +36,7 @@ Pre-defined SQL queries can be executed, such as:
 
 ---
 
+
 ## Requirements
 
 ### Python Libraries
@@ -40,5 +45,4 @@ This application uses several Python libraries that you need to install before r
 ```bash
 pip install -r requirements.txt
 
-### Linkedin
-https://www.linkedin.com/in/arshathparvesh10/
+
